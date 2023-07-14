@@ -1,1 +1,8 @@
-print("mama hej kako si")
+print("tata hej kako si")
+
+cdc
+cxcxz
+cxcxzcxz
+cxcxzcxzcxz
+cxcxz
+mama hej
