@@ -1,0 +1,1 @@
+print("mama hej kako si")
